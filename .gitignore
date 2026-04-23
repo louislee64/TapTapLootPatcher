@@ -1,0 +1,12 @@
+bin/
+obj/
+.appdata/
+.dotnet-home/
+.nuget/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
